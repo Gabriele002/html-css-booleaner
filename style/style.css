@@ -50,3 +50,13 @@ main {
 td{
     width: 1000px;
 }
+
+footer{
+    background-color: rgb(14, 1, 73);
+    color: aliceblue;
+    padding-top: 30px ;
+    text-align: center ;
+    padding-bottom: 30px;
+    font: italic;
+
+}
