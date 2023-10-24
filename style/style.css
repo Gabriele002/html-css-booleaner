@@ -34,3 +34,19 @@ main {
     margin: 15px;
 }
 
+.primacolonna{
+    background-color: rgb(75, 75, 228);
+    color: aliceblue;
+}
+
+.secondacolonna{
+    background-color: rgb(187, 183, 183);
+}
+
+.quartacolonna{
+    background-color: rgb(187, 183, 183)
+}
+
+td{
+    width: 1000px;
+}
