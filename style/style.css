@@ -29,3 +29,8 @@ main {
 .style-italic {
     font-style: italic;
 }
+
+.margin15{
+    margin: 15px;
+}
+
