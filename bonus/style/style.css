@@ -5,8 +5,9 @@
 }
 
 header { 
-    background-color: rgb(39, 207, 207);
-    padding-left: 20px;
+    background-color: rgb(23, 119, 156);
+    
+   
 }
 
 main {
@@ -65,3 +66,5 @@ main{
     width: 80%;
     margin: 0 auto;
 }
+
+
